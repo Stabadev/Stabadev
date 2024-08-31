@@ -71,7 +71,7 @@ Voici quelques-uns de mes principaux projets, réalisés dans le cadre de mon pa
 
 ### Environnements de travail
 - **Serveur VPS sous YunoHost** : Administration complète d'un serveur VPS personnel sous YunoHost, incluant le déploiement d'applications Flask pour héberger des projets web et data science.
-- **Environnements de développement** : Expérience avec les environnements de développement en cloud, ainsi que l'utilisation de services comme AWS ou Google Cloud Platform pour le déploiement de modèles.
+- **Environnements de développement** : Expérience avec les environnements de développement en cloud, ainsi que l'utilisation de services (AWS) pour le déploiement de modèles.
 
 ---
 
